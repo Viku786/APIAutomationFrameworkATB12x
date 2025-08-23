@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/API Automation/APIAutomationFrameworkATB12x">
+    <classes>
+        <class name="com.thetestingacademy.Tests.RestfulBooker.E2E_Integration.TestIntegrationFlow1">
+        </class>
+    </classes>
+</test></suite>
